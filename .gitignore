@@ -1,0 +1,21 @@
+.vscode/
+.agent/
+.codex/
+.history/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual env
+.venv/
+venv/
